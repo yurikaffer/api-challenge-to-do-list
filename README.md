@@ -1,4 +1,4 @@
-# processo para rodar o projeto
+## processo para rodar o projeto
 
 1. rodar o comando `npm i`
 2. certificar-se de que tenha um banco mysql vazio.

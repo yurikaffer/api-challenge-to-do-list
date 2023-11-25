@@ -1,14 +1,14 @@
-## Desafio Corelab: To-do-list
+# Desafio Corelab: To-do-list
 
-# Descrição
+## Descrição
 O projeto implementa as funcionalidades da api proposta no desafio.
 
-# Desafio
+## Desafio
 O desafio consiste em uma API para gerencias uma lista de tarefas com as operações de CRUD.
 
-# Implementações
+## Implementações
 - Estrutura padrão de api proposta pelo AdonisJs.
 - Operações de CRUD para a lista de tarefas.
 
-# Testes
+## Testes
 Para testar o projeto, siga o paço a paço sugerido no arquivo README.md do projeto
